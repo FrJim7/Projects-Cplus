@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: El directorio Output no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Output.
+  main.cc
+c:\users\jimenezga\documents\programacion\2pg_ma_jimenezga_20\edk_workspace_quadgeometry\src\main.cc(77): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\jimenezga\documents\programacion\2pg_ma_jimenezga_20\edk_workspace_quadgeometry\src\main.cc(78): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  EDK_workspace.vcxproj -> C:\Users\jimenezga\Documents\Programacion\2pg_ma_jimenezga_20\EDK_workspace_quadgeometry\project\VS2017\EDK_workspace\..\..\..\bin\EDK_workspace.exe

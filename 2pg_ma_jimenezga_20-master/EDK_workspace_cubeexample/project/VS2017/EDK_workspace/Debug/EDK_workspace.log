@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: El directorio Output no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Output.
+  cubeexample5.cc
+c:\users\jimenezga\documents\programacion\2pg_ma_jimenezga_20\edk_workspace_cubeexample\cubeexample5.cc(77): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\jimenezga\documents\programacion\2pg_ma_jimenezga_20\edk_workspace_cubeexample\cubeexample5.cc(94): warning C4838: la conversión de 'int' en 'float' requiere una conversión de restricción
+c:\users\jimenezga\documents\programacion\2pg_ma_jimenezga_20\edk_workspace_cubeexample\cubeexample5.cc(94): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\jimenezga\documents\programacion\2pg_ma_jimenezga_20\edk_workspace_cubeexample\cubeexample5.cc(106): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\jimenezga\documents\programacion\2pg_ma_jimenezga_20\edk_workspace_cubeexample\cubeexample5.cc(107): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\jimenezga\documents\programacion\2pg_ma_jimenezga_20\edk_workspace_cubeexample\cubeexample5.cc(111): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\jimenezga\documents\programacion\2pg_ma_jimenezga_20\edk_workspace_cubeexample\cubeexample5.cc(112): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\jimenezga\documents\programacion\2pg_ma_jimenezga_20\edk_workspace_cubeexample\cubeexample5.cc(138): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\jimenezga\documents\programacion\2pg_ma_jimenezga_20\edk_workspace_cubeexample\cubeexample5.cc(139): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\jimenezga\documents\programacion\2pg_ma_jimenezga_20\edk_workspace_cubeexample\cubeexample5.cc(145): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\jimenezga\documents\programacion\2pg_ma_jimenezga_20\edk_workspace_cubeexample\cubeexample5.cc(146): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\jimenezga\documents\programacion\2pg_ma_jimenezga_20\edk_workspace_cubeexample\cubeexample5.cc(147): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\jimenezga\documents\programacion\2pg_ma_jimenezga_20\edk_workspace_cubeexample\cubeexample5.cc(169): warning C4018: '<': no coinciden signed/unsigned
+  EDK_workspace.vcxproj -> C:\Users\jimenezga\Documents\Programacion\2pg_ma_jimenezga_20\EDK_workspace_cubeexample\project\VS2017\EDK_workspace\..\..\..\bin\EDK_workspace.exe
